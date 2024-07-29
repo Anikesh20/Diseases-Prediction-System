@@ -46,13 +46,13 @@ with st.sidebar:
     components.html("""
     <script>
     window.embeddedChatbotConfig = {
-    chatbotId: "ovklNOH-QGI6hN3O3jucQ",
+    chatbotId: "YOUR_CHATBOT_ID",
     domain: "www.chatbase.co"
     }
     </script>
     <script
     src="https://www.chatbase.co/embed.min.js"
-    chatbotId="ovklNOH-QGI6hN3O3jucQ"
+    chatbotId="YOUR_CHATBOT_ID"
     domain="www.chatbase.co"
     defer>
     </script>
